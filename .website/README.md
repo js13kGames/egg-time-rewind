@@ -1,4 +1,7 @@
 ---
+genres:
+  - action
+  - arcade
 directors_cut: https://www.newgrounds.com/portal/view/873020
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
